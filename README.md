@@ -7,5 +7,5 @@ URL: [Website URL](https://admissionprediction96.herokuapp.com)
 
 # OUTPUT
   
-  ![image](https://raw.githubusercontent.com/abhishek96negi/Image-Classifier/main/Image/Homepage.png)
+  ![image](https://admissionprediction96.herokuapp.com/predict)
   
